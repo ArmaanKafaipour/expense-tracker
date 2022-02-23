@@ -6,6 +6,6 @@ Form designed using bootstrap components.
 
 User login required in-order to view/modify the data.
 
-![](Images/expenseTrackerLogin.png width="100" height="20")
+![](Images/expenseTrackerLogin.png)
 ![](Images/expenseTracker.png)
 ![](Images/expenseTrackerDelete.png)
